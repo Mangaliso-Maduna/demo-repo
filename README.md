@@ -11,3 +11,6 @@ aliquet non vel risus.
 ### SubHeader
 Nullam lacinia sollicitudin erat, a porttitor metus eleifend at. 
 Proin condimentum justo non ex pharetra, ut molestie ligula hendrerit.
+
+## Local developments
+1. open index.html in your browser
